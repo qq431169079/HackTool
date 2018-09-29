@@ -1,18 +1,15 @@
-Web Tool
+Tool
 
-Burpsuite
+信息收集
+    GitHack             https://github.com/lijiejie/GitHack
 
-    Dirsearch
-        https://github.com/maurosoria/dirsearch
+抓包工具
+    Burpsuite
 
-    GitHack
-        https://github.com/lijiejie/GitHack
+扫描工具
+    dirsearch           https://github.com/maurosoria/dirsearch
+    subDomainsBrute     https://github.com/lijiejie/subDomainsBrute
+    w9scan              https://github.com/boy-hack/w9scan
     
-    SubDomainsBrute
-        https://github.com/lijiejie/subDomainsBrute
-    
-    Cknife
-        https://github.com/Chora10/Cknife
-    
-    w9scan
-        https://github.com/boy-hack/w9scan
+Shell工具
+    Cknife              https://github.com/Chora10/Cknife
