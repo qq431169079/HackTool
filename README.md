@@ -13,3 +13,8 @@ Tool
     
 Shell工具
     Cknife              https://github.com/Chora10/Cknife
+
+
+提权
+	CVE-2018-8120 [Win32k Elevation of Privilege Vulnerability] (Windows 7 SP1/2008 SP2,2008 R2 SP1)
+		https://github.com/unamer/CVE-2018-8120
