@@ -18,3 +18,5 @@ Shell工具
 提权
 	CVE-2018-8120 [Win32k Elevation of Privilege Vulnerability] (Windows 7 SP1/2008 SP2,2008 R2 SP1)
 		https://github.com/unamer/CVE-2018-8120
+	CVE-2018-8174 [Windows VBScript Engine Code Vulnerability] (32位 IE浏览器及使用了IE内核的应用程序)
+		https://github.com/Yt1g3r/CVE-2018-8174_EXP
