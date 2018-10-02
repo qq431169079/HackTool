@@ -12,6 +12,7 @@ Tool
     w9scan              https://github.com/boy-hack/w9scan
     F-NAScan            https://github.com/ywolf/F-NAScan
     HScan               
+    nbtscan             http://www.unixwiz.net/tools/nbtscan.html
 
 网络嗅探
     cain                http://www.oxid.it/
