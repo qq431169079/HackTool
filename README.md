@@ -40,3 +40,4 @@ Shell工具
 		https://github.com/unamer/CVE-2018-8120
 	CVE-2018-8174 [Windows VBScript Engine Code Vulnerability] (32位 IE浏览器及使用了IE内核的应用程序)
 		https://github.com/Yt1g3r/CVE-2018-8174_EXP
+    提权补丁对比工具
