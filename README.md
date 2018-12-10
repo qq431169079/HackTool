@@ -33,6 +33,10 @@ Shell工具
 密码工具
     mimikatz            https://github.com/gentilkiwi/mimikatz
     wce                 https://www.ampliasecurity.com/research/windows-credentials-editor/
+    hashcat             https://hashcat.net/hashcat/
+
+无线工具
+    hcxdumptool         https://github.com/ZerBea/hcxdumptool
 
 
 提权
