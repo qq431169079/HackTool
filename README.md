@@ -67,3 +67,9 @@ Shell工具
 ​		https://github.com/Yt1g3r/CVE-2018-8174_EXP
 
 ​	提权补丁对比工具
+
+VPS
+
+​		https://www.digitalocean.com/products/linux-distribution/ubuntu/
+
+​		https://lightsail.aws.amazon.com/
