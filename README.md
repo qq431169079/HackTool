@@ -70,6 +70,6 @@ Shell工具
 
 VPS
 
-​		https://www.digitalocean.com/products/linux-distribution/ubuntu/
+​	https://www.digitalocean.com/products/linux-distribution/ubuntu/
 
-​		https://lightsail.aws.amazon.com/
+​	https://lightsail.aws.amazon.com/
