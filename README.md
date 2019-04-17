@@ -73,3 +73,19 @@ VPS
 ​	https://www.digitalocean.com/products/linux-distribution/ubuntu/
 
 ​	https://lightsail.aws.amazon.com/
+
+环境搭建
+
+​	ptf(渗透测试框架)	https://github.com/trustedsec/ptf
+
+​	Red Baron(基础设施搭建)	https://github.com/Coalfire-Research/Red-Baron
+
+Payload
+
+​	unicorn(混淆)	https://github.com/trustedsec/unicorn
+
+APT渗透
+
+​	meterpreter	
+
+​	cobalt strike(后期持续渗透)	https://www.cobaltstrike.com
