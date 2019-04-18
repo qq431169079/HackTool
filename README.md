@@ -89,3 +89,11 @@ APT渗透
 ​	meterpreter	
 
 ​	cobalt strike(后期持续渗透)	https://www.cobaltstrike.com
+
+隧道
+
+​	dnscat2(利用dns协议创建加密隧道)	https://github.com/iagox86/dnscat2
+
+远控工具
+
+​	pupy(远程管理和后渗透利用)	https://github.com/n1nj4sec/pupy
